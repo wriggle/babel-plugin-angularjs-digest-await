@@ -1,3 +1,5 @@
+Taken from https://www.npmjs.com/package/babel-plugin-angularjs-digest-await to make accessible via github.
+
 # babel-plugin-angularjs-digest-await
 
 Babel plugin for applying `$digest` loop after `await` expressions in AngularJS apps.
