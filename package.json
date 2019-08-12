@@ -1,0 +1,17 @@
+{
+  "name": "babel-plugin-angularjs-digest-await",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Oskari Noppa",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-tester": "^4.0.0",
+    "eslint": "^4.11.0",
+    "jest": "^21.2.1"
+  }
+}
